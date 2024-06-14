@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+.proximamente{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.proximamente img{
+    max-width: 40%;
+}
+
+.proximamente p{
+    font-size: 20px;
+    margin: 30px;
+}

@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+.main_card{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.featured_text{
+    font-size: 25px;
+    text-align: center;
+}
+
+.hu_tao_card{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.hu_tao_card a{
+    text-decoration: none;
+    color: white;    
+}
+
+.hu_tao_card:hover{
+    transform: scale(1.01);
+    transition: all 0.05s ease-in-out;
+}
+
+.more_links{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.more_links a{
+    text-decoration: none;
+}
+
+.more_guides{
+    margin-top: 1px;
+    margin-bottom: 15px;
+}
+
+.more_guides_text{
+    margin-top: 10px;
+}
+
+.more_guides a{
+    text-decoration: none;
+    color: white;   
+}
+
+.clorinde_card:hover{
+    transform: scale(1.01);
+    transition: all 0.05s ease-in-out;
+}
+
+.neuvillette_card:hover{
+    transform: scale(1.01);
+    transition: all 0.05s ease-in-out;
+}
+
+.kazuha_card:hover{
+    transform: scale(1.01);
+    transition: all 0.05s ease-in-out;
+}
+
+.furina_card:hover{
+    transform: scale(1.01);
+    transition: all 0.05s ease-in-out;
+}
+
+.redes{
+    background-color: rgb(33, 37, 41);
+    color: white;
+    padding: 60px;
+}
+
+.redes h3{
+    font-size: 30px;
+}
+
+.redes ul{
+    list-style: none;
+}
+
+.redes a{
+    color: lightblue;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+
+

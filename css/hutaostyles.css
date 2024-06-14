@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+.hu_tao_card{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.more_guides_text{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 27px;
+}
+
+.more_guides a{
+    text-decoration: none;
+    color: white;   
+}
+
+.kit_accordion{
+    margin-top: 15px;
+}
+
+.hu_tao_kit{
+    border: 3px;
+    background-color: rgb(33, 37, 41);
+}
+
+.sands{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.goblet{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.circlet{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.recomendaciones{
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+.sets_artefactos img{
+    max-width: 70%;
+    text-align: center;
+}
+
+.titulo_artefactos{
+    font-size: 30px;
+}
+
+.armas_card{
+    margin-top: 1px;
+}
+
+.armas_card img{
+    width: 70%;
+}
+
+.teams_card{
+    margin-top: 15px;
+}
+
+.redes{
+    background-color: rgb(33, 37, 41);
+    color: white;
+    padding: 60px;
+}
+
+.redes h3{
+    font-size: 30px;
+}
+
+.redes ul{
+    list-style: none;
+}
+
+.redes a{
+    color: lightblue;
+    text-decoration: none;
+    font-size: 20px;
+}
